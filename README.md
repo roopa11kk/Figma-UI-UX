@@ -11,7 +11,7 @@ This repository contains the UI/UX wireframe for a mobile login screen, designed
 
 ## 🔗 Figma Project Link
 
-👉 [View on Figma]([https://www.figma.com/file/your-figma-link](https://www.figma.com/design/4aDDVJ1MOz5KZNLyOV9Gun/first-figma-UI-UX-design?node-id=39-139&t=pziZsyL8EtFRHwbN-0))
+👉 https://www.figma.com/file/your-figma-link](https://www.figma.com/design/4aDDVJ1MOz5KZNLyOV9Gun/first-figma-UI-UX-design?node-id=39-139&t=pziZsyL8EtFRHwbN-0
 
 ---
 
